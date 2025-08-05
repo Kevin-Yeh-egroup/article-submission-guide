@@ -95,7 +95,7 @@ export default function SubmissionGuide() {
             </CardTitle>
           </CardHeader>
           <CardContent>
-            <p className="text-gray-600 mb-6">為了讓您的分享更有條理且具參考價值，建議依循以下架構撰寫：</p>
+            <p className="text-gray-600 mb-6">為了讓您的分享更有條理且具參考價值，建議可以依循以下架構撰寫：</p>
 
             <div className="space-y-6">
               {/* 第一部分 */}
@@ -182,7 +182,7 @@ export default function SubmissionGuide() {
               <div>
                 <h3 className="font-semibold text-lg mb-3 text-orange-800">隱私保護</h3>
                 <div className="bg-white p-4 rounded-lg border border-orange-200">
-                  <p className="font-medium text-red-600 mb-2">
+                  <p className="font-medium text-gray-700 mb-2">
                     <strong>個案資訊去識別化</strong>：文章中涉及個案的所有資訊必須完全去識別化，包括姓名、地址等
                   </p>
                   <p className="text-gray-600">可使用化名或代號，確保個案隱私獲得充分保護</p>
